@@ -1,0 +1,28 @@
+@import url("https://fonts.google.com/specimen/Times New Roman?query=incon");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+body {
+    font-family: "Times New Roman", sans-serif;
+    height: 100vh;
+    background: #30336b;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    font-size: 50px;
+
+}
+
+.main-heading h1 {
+    margin-bottom: 1000px;
+
+}
